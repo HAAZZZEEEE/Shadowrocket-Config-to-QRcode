@@ -11,8 +11,8 @@
 "method" : "",     // 加密方式
 "remarks" : ""     // 备注
 ```
-配置文件的二维码信息格式如下
-`ss://Base64(method[-auth]:password@hostname:port/#Base64(remark))`
+配置文件的二维码信息格式如下  
+`ss://Base64(method[-auth]:password@hostname:port/#Base64(remark))`  
 其中*Base64()*表示对字符串进行Base64编码，需要注意的是remark信息先单独进行一次Base64编码后，拼接在前面其他的信息后，整体再编码一次。
 
 ---
