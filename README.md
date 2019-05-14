@@ -1,5 +1,5 @@
 # Shadowrocket-Config-to-QRcode
-将shadowsocks小飞机的配置文件gui-config.json转换成二维码，以便手机端快速扫码添加配置
+将shadowsocks小飞机的配置文件gui-config.json转换成二维码，以便手机端快速扫码添加节点
     
 #
   
